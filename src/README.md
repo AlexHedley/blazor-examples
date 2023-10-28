@@ -8,3 +8,4 @@ Place for a number of Blazor Examples:
 ## FileWatcher
 
 - [FileWatcher](FileWatcher/README.md)
+  - [Notes](../docs/FILEWATCHER.md)
